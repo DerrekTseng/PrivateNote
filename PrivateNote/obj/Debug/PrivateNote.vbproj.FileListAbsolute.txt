@@ -19,3 +19,4 @@ C:\Users\a0926\source\repos\PrivateNote\PrivateNote\obj\Debug\PrivateNote.exe
 C:\Users\a0926\source\repos\PrivateNote\PrivateNote\obj\Debug\PrivateNote.xml
 C:\Users\a0926\source\repos\PrivateNote\PrivateNote\obj\Debug\PrivateNote.pdb
 C:\Users\a0926\source\repos\PrivateNote\PrivateNote\obj\Debug\PrivateNote.Main.resources
+C:\Users\a0926\source\repos\PrivateNote\PrivateNote\obj\Debug\PrivateNote.TabRichTextBoxPage.resources

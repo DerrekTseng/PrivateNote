@@ -121,6 +121,12 @@
     <Compile Include="src\tools\DateTools.vb" />
     <Compile Include="src\tools\SQLiteTools.vb" />
     <Compile Include="src\tools\CryptoTools.vb" />
+    <Compile Include="TabRichTextBoxPage.Designer.vb">
+      <DependentUpon>TabRichTextBoxPage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TabRichTextBoxPage.vb">
+      <SubType>Component</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Main.resx">
@@ -131,6 +137,9 @@
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TabRichTextBoxPage.resx">
+      <DependentUpon>TabRichTextBoxPage.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
